@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaskav1
 - 👀 I’m interested in python and Node.js
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to learn and collaborate on python
 - 📫 shaskav1@gmail.com
 
 <!---
